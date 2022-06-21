@@ -21,3 +21,4 @@ In the provided source code I'm giving you some code that displays the data from
 and the vectors within the structures. This code uses tabs to format the data and it looks pretty ugly.
 
 
+[ExpectedTable.txt](https://github.com/streetzoom/I_O_and_Streams_Part1/files/8952081/ExpectedTable.txt)
