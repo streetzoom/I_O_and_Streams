@@ -19,17 +19,27 @@ editor because of the font style.
 
 
 Country        City                Population          Price
+
 ============================================================
+
 Colombia       Bogota                 8778000         400.98
+
 Colombia       Cali                   2401000         424.12
+
 Colombia       Medellin               2464000         350.98
+
 Colombia       Cartagena               972000         345.34
 
+
 Brazil         Rio De Janiero        13500000         567.45
+
 Brazil         Sao Paulo             11310000         975.45
+
 Brazil         Salvador              18234000         855.99
 
+
 Chile          Valdivia                260000         569.12
+
 Chile          Santiago               7040000            520
 
 Argentina      Buenos Aires           3010000         723.77
