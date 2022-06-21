@@ -14,7 +14,7 @@ The Tours include Countries, Cities within those countries along with population
 each city tour.
 I know, population? Huh? I just wanted a big number so that you can format it, OK :)
 
-Please watch the Challenge video for the expected output. It won't look right if I put it in this
+Please watch the solution for the expected output. It won't look right if I put it in this
 editor because of the font style.
 
 
