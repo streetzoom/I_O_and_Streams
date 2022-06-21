@@ -17,8 +17,9 @@ I know, population? Huh? I just wanted a big number so that you can format it, O
 Please watch the solution for the expected output. It won't look right if I put it in this
 editor because of the font style.
 
+[ExpectedTable.txt](https://github.com/streetzoom/I_O_and_Streams_Part1/files/8952081/ExpectedTable.txt)
+
+
 In the provided source code I'm giving you some code that displays the data from the structures 
 and the vectors within the structures. This code uses tabs to format the data and it looks pretty ugly.
 
-
-[ExpectedTable.txt](https://github.com/streetzoom/I_O_and_Streams_Part1/files/8952081/ExpectedTable.txt)
